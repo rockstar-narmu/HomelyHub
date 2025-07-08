@@ -98,4 +98,4 @@ npm start
 ---
 
 ## 🎓 Internship Experience
-This project was developed as part of a 1-month MERN Stack Internship at **Webstack Academy**. It helped reinforce core full-stack concepts and provided hands-on experience in building a real-world application.
+This project was developed as part of a 1-month MERN Stack Internship at **Webstack Academy**. It helped reinforce core full-stack concepts and provided hands-on experience in building a real-world application. You can view my [Demo video here](https://www.youtube.com/watch?v=tZI-dn7g8as&t=1148s)  
