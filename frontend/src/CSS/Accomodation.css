@@ -1,0 +1,301 @@
+.accom-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: auto;
+}
+
+.add-new-place {
+  padding: 13px;
+  border-radius: 30px;
+  border: none;
+  margin-top: 2rem;
+  background-color: #0e8b53;
+  color: white;
+}
+.accom-form-container {
+  width: 100%;
+  height: 100%;
+}
+
+form {
+  padding: 1rem;
+}
+
+.accom-form > div {
+  width: 100%;
+  margin: 10px auto;
+}
+
+.input-container > input {
+  width: 100%;
+  height: 50px;
+  padding: 8px;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+
+.input-container > input:focus,
+textarea:focus {
+  outline: none;
+}
+
+textarea::placeholder {
+  font-size: 15px;
+}
+
+.title::placeholder,
+.image-link::placeholder {
+  font-size: 15px;
+}
+
+.address-fields {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.address-fields > input {
+  width: 18rem;
+  height: 50px;
+  padding: 8px;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+
+.address-fields > input::placeholder {
+  font-size: 15px;
+}
+.input-container > textarea {
+  width: 100%;
+  border-radius: 10px;
+  padding: 8px;
+  row-gap: 3;
+}
+
+div > .form-labels {
+  color: grey;
+  font-size: 13px;
+}
+
+div > .form-paras {
+  color: grey;
+  font-size: 13px;
+}
+.perks {
+  width: 100%;
+  display: flex;
+  gap: 4%;
+  padding: 0px 1rem;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.perks > .checkbox-container {
+  padding: 2px;
+  height: 60px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+
+.perks > div input {
+  width: 12px;
+  margin: auto 8px;
+}
+.timein-timeout-maxguest > div {
+  display: flex;
+  width: 100%;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+}
+
+section > input {
+  border-radius: 10px;
+  border: 1px solid gray;
+  padding: 8px;
+}
+section > input::placeholder {
+  font-size: 15px;
+}
+
+.save {
+  width: 100%;
+  border-radius: 10px;
+  padding: 7px;
+  background-color: #0e8b53;
+  border: none;
+  margin: 1rem auto;
+  color: white;
+}
+
+.checkbox-container > span {
+  font-size: 18px;
+}
+
+.image-link {
+  width: 90%;
+  margin-right: 1%;
+}
+
+.add-button {
+  width: 9%;
+  padding: 1rem;
+  border-radius: 10px;
+  border: none;
+}
+
+.add-button:focus {
+  background-color: #0e8b53;
+  color: white;
+  outline: none;
+}
+
+.image-list-container {
+  display: flex;
+  gap: 1%;
+  width: 100%;
+  margin-top: 10px;
+}
+.image-list-container > img {
+  width: 15%;
+  border-radius: 10px;
+  height: 7rem;
+  object-fit: fill;
+}
+
+.image-link {
+  height: 50px;
+  padding: 8px;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+
+.upload {
+  height: 4rem;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.myaccomodation-container {
+  display: flex;
+  height: 12rem;
+  width: 60%;
+  margin: 3%;
+  border-radius: 10px;
+  align-items: center;
+  transition: transform 0.5s;
+}
+
+.myaccomodation-container:hover {
+  box-shadow: 1px 1px 15px rgb(161, 160, 160);
+  transform: scale(1.1);
+}
+
+.myaccomodation-image-container {
+  height: 12rem;
+  padding: 0px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.myaccomodation-image-container:hover {
+  cursor: pointer;
+}
+.myaccomodation-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.myaccomodation-information {
+  height: 12rem;
+  background-color: rgb(223, 223, 223);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+.myaccomodation-property-name {
+  margin-bottom: 0px;
+}
+.stay-information {
+  display: flex;
+  align-items: center;
+}
+.info {
+  display: flex;
+  margin-right: 0.5rem;
+  color: grey;
+  font-size: 13px;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  color: grey;
+  font-size: 20px;
+}
+
+.myaccomodation-price {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+.myaccomodation-address,
+.myaccomodation-guest {
+  color: grey;
+  margin: 0px;
+  padding: 0px;
+  font-size: 14px;
+}
+
+.property-room-container {
+  display: flex;
+  gap: 5rem;
+}
+
+.property-room-container select {
+  width: 12rem;
+  height: 55px;
+  border-radius: 10px;
+  border: 1px solid grey;
+  color: grey;
+  padding: 8px;
+}
+
+select:focus {
+  outline: none;
+}
+
+.check-labels {
+  font-size: 18px;
+  color: black;
+}
+
+.note {
+  color: red;
+}

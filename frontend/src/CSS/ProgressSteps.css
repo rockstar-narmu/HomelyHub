@@ -1,0 +1,36 @@
+/* ProgressSteps.css */
+
+.checkout-progress {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  text-decoration: none;
+}
+
+.progress-button {
+  text-decoration: none;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+  background-color: #ddd; /* Default button color */
+  cursor: pointer;
+}
+
+.progress-button.active-button {
+  background-color: #0e8b53; /* Active button color */
+  color: white;
+}
+.progress-button.active-button:hover {
+  background-color: #0e8b53; /* Active button color */
+  color: white;
+  font-weight: 400;
+}
+.progress-button:hover {
+  text-decoration: none;
+  background-color: rgba(1, 38, 7, 0.177);
+  border-color: rgb(2, 58, 11);
+  color: rgb(2, 58, 11);
+  font-weight: bold;
+}

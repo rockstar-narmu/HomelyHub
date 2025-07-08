@@ -1,0 +1,272 @@
+.property-container {
+  width: 98%;
+  height: auto;
+  margin: 2%;
+}
+
+.property-header {
+  font-size: 24px;
+  margin: 0px auto;
+  padding: 0px auto;
+  color: black;
+}
+
+.property-location {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.location {
+  text-decoration: underline;
+}
+
+.property-description {
+  color: gray;
+  font-size: 15px;
+}
+
+.property-img-container {
+  width: 98%;
+  display: grid;
+  grid-template-columns: 49% 25% 25%;
+  grid-template-rows: 200px 200px;
+  gap: 10px;
+}
+
+.img-item.first-image {
+  grid-row: span 2; /* This spans two rows for the first image */
+}
+
+.images {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.images:hover {
+  cursor: pointer;
+}
+
+.middle-container {
+  display: flex;
+  margin-top: 10px;
+  width: 100%;
+}
+.amenities {
+  width: 100%;
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.amenities > p {
+  width: 50%;
+  color: grey;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.material-symbols-outlined {
+  margin-right: 8px;
+}
+
+/*Payment Form */
+
+.property-payment {
+  height: auto;
+  text-align: center;
+}
+
+.form-container {
+  height: 100%;
+}
+
+.payment-form {
+  margin: 12px;
+  width: 100%;
+  height: 97.4%;
+  box-shadow: 2px 2px 10px grey;
+  border-radius: 10px;
+  padding: auto 10px auto 10px;
+}
+
+.payment-field {
+  margin: 0.9rem;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  height: 69%;
+  padding: 10px 0px 10px 0px;
+  width: 93%;
+  text-align: start;
+}
+
+.payment-field > .date,
+.guest {
+  border-bottom: 1px solid lightgray;
+  border-radius: 10px;
+  padding: 9px 12px;
+}
+
+.searchDate::placeholder,
+.no-of-guest::placeholder,
+.phone-number::placeholder,
+.full-name::placeholder {
+  font-size: 15px;
+}
+
+.payment-labels {
+  font-size: 16px;
+  color: black;
+}
+
+.name-phoneno {
+  border-bottom: none;
+  border-radius: 10px;
+  padding: 9px 12px;
+}
+
+.payment-field input {
+  width: 99%;
+  height: 30px;
+  margin: 7px auto;
+  padding-left: 10px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+}
+input:focus {
+  outline: none;
+}
+
+.price-pernight {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+.book-place > button {
+  width: 90%;
+  background-color: #0e8b53;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  height: 50px;
+  font-size: 15px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.book-place > button:hover {
+  transition: 0.2s;
+  background-color: rgba(1, 38, 7, 0.177);
+  color: #0e8b53;
+  font-size: 17px;
+}
+
+.modal {
+  background-color: Grey;
+  width: 50%;
+  height: 500px;
+  color: black;
+  position: absolute;
+  top: 10%;
+  left: 30%;
+}
+
+.similar-photos-container {
+  position: relative;
+}
+
+.similar-photos {
+  position: absolute;
+  bottom: 3px;
+  right: 22px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #0e8b53;
+  box-shadow: 2px 2px 10px rgb(30, 28, 28);
+}
+
+.material-symbols-outlined {
+  font-size: 28px;
+  font-weight: bolder;
+  margin-top: 2px;
+  padding-left: 3px;
+  padding-top: 2px;
+}
+
+.map-image-exinfo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+}
+
+.map-image-container {
+  height: 100%;
+}
+
+.map-header {
+  margin-bottom: 1rem;
+}
+
+.map-image {
+  width: 95%;
+  object-fit: cover;
+  padding-left: 1rem;
+}
+
+.extra-info {
+  width: 50%;
+  height: 26rem;
+}
+
+.extra-description {
+  font-size: 15px;
+  color: grey;
+}
+
+.modal-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: none;
+  z-index: 999;
+  overflow: scroll;
+}
+.modal-image::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+  backdrop-filter: blur(5px); /* Apply blur to the background */
+  z-index: -1; /* Move the pseudo-element below the main container */
+}
+.modal-image.open {
+  display: block;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+}
+#checkoutDate,
+#checkinDate {
+  width: 9.5rem;
+}
+
+.searchDate:hover::placeholder {
+  color: black;
+}

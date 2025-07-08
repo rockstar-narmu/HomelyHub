@@ -1,0 +1,47 @@
+/* body {
+  background-image: url("../../public/assets/template.jpeg");
+  background-size: cover;
+  backdrop-filter: blur(5px);
+} */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  width: 100%;
+}
+
+.wrapper form {
+  padding: 2.5rem 3rem;
+  padding-bottom: 4rem;
+  box-shadow: 1px 1px 5px#353736;
+  margin-bottom: 8rem;
+}
+
+.wrapper form h1 {
+  text-align: center;
+}
+
+.wrapper form .loginbutton {
+  background-color: #0e8b53;
+  border-color: #8b8683;
+  color: white;
+  margin-top: 2.5rem;
+  box-shadow: 2px 2px 10px rgb(183, 170, 170);
+  border-radius: 15px;
+}
+.wrapper form .loginbutton:hover {
+  background-color: rgba(1, 38, 7, 0.177);
+  border-color: rgb(2, 58, 11);
+  color: rgb(2, 58, 11);
+  font-weight: bold;
+}
+
+.wrapper form a {
+  font-size: 0.9rem;
+  color: grey;
+}

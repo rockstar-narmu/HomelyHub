@@ -1,0 +1,68 @@
+.details-header {
+  font-size: 24px;
+  margin: 10px;
+  padding: 0px 0.6rem;
+  color: black;
+}
+
+.details-location {
+  margin: auto;
+  width: 100%;
+  display: flex;
+  padding: 0px 0.9rem;
+  align-items: center;
+}
+
+.details-information-container {
+  width: 98%;
+  margin: 1rem 1% 2rem 1%;
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  background-color: lightgray;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.details-information {
+  display: flex;
+  flex-direction: column;
+}
+
+.booking-stay-information {
+  display: flex;
+  flex-direction: row;
+}
+
+.details {
+  display: flex;
+  margin-right: 0.5rem;
+  color: grey;
+  font-size: 13px;
+}
+
+.stay-icon {
+  font-size: 20px;
+  color: grey;
+}
+
+.details-total-price {
+  background-color: rgb(94, 14, 169);
+  color: rgb(255, 255, 255);
+  padding: 1rem;
+  border-radius: 12px;
+}
+
+.price-header {
+  margin: 0px;
+  padding: 0px;
+  font-size: 14px;
+}
+
+.price-in-number {
+  font-size: 24px;
+  margin: 0px;
+  padding: 0px;
+}

@@ -1,0 +1,1034 @@
+[{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b3"
+  },
+  "propertyName": "Olive Inn",
+  "description": "4BHK New Luxurious Independent villa in ECR Chennai. Enjoy a cozy furnished private villa with an Indoor swimming pool located in Chennai, 5mins away from PVR cinemas, 5mins away from the Uthandi beach, 10mins away from VGP Golden beach.Book today and spend time with your loved ones.",
+  "propertyType": "Guest House",
+  "roomType": "Entire Home",
+  "maximumNight": 12,
+  "maximumGuest": 10,
+  "amenities": [
+    {
+      "name": "Kitchen",
+      "icon": "kitchen"
+    },
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "3a",
+      "url": "https://img.freepik.com/free-photo/beautiful-shot-houses-pamplona-spain-with-scenery-sunset-background_181624-24642.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "3b",
+      "url": "https://img.freepik.com/free-photo/blue-sea-coconut-palms-sky_1203-4983.jpg?w=826&t=st=1706507302~exp=1706507902~hmac=2fad463c99e1c8f3b466799ff6a287c99fb00a185b0a0bf2ebaf929e768403ca"
+    },
+    {
+      "public_id": "3c",
+      "url": "https://img.freepik.com/free-photo/background-rarotonga-beautiful-day-summer_1203-4663.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "3d",
+      "url": "https://img.freepik.com/free-photo/beautiful-umbrella-chair-around-swimming-pool-hotel-resort_74190-6573.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "3e",
+      "url": "https://img.freepik.com/free-photo/umbrella-chair-around-swimming-pool_74190-6557.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "3f",
+      "url": "https://img.freepik.com/premium-photo/interior-bathroom-disabled-elderly-people_29285-2044.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 3000,
+  "address": {
+    "area": "ecr",
+    "city": "chennai",
+    "state": "tamilnadu",
+    "pincode": 600119
+  },
+  "slug": "Olive Inn",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b4"
+  },
+  "propertyName": "Munnar Farmhouse",
+  "description": "The Munnar Farmhouse is a lovely homestay coddled along the hills of Munnar, offering apleasant and refreshing stay complete with a terrace and a garden.Satiate your taste buds with local delicacies served at the property and enjoy in-room dining.Soak up some fun on the terrace or spend some quality time with your loved ones in the garden. ",
+  "propertyType": "House",
+  "roomType": "Entire Home",
+  "maximumNight": 6,
+  "maximumGuest": 8,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    },
+    {
+      "name": "Washing Machine",
+      "icon": "local_laundry_service"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "4a",
+      "url": "https://img.freepik.com/free-photo/house-thailand-style_1388-799.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "4b",
+      "url": "https://img.freepik.com/free-photo/wide-angle-shot-trees-nature-seen-from-building_181624-9470.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "4c",
+      "url": "https://img.freepik.com/free-photo/house-thailand-style_1388-800.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "4d",
+      "url": "https://img.freepik.com/premium-photo/elegant-design-living-room-interior-with-window-overlooking-rainforest-view_31965-96264.jpg?w=826"
+    },
+    {
+      "public_id": "4e",
+      "url": "https://img.freepik.com/premium-photo/relax-balcony-vangvieng-laos_127090-647.jpg?w=900"
+    },
+    {
+      "public_id": "4f",
+      "url": "https://img.freepik.com/premium-photo/bathroom-interior-with-double-sinks-mirrors-elegant-home-interior_29285-111.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 2800,
+  "address": {
+    "area": "ettycityroad",
+    "city": "munnar",
+    "state": "kerala",
+    "pincode": 685612
+  },
+  "slug": "Munnar Farmhouse",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874bd"
+  },
+  "propertyName": "Sunnyside Up",
+  "description": "Our home compound is located in the centre of town, but in a residential area.Cozy, comfortable, and homey. There is a joyous sense of whimsy, and most objects bring a smile to your face.There's a fireplace in the adjoining room (extra charge for wood)The homestay is a separate building within our compound. It has a separate entrance so you can come and go as you please.",
+  "propertyType": "Guest House",
+  "roomType": "Entire Home",
+  "maximumNight": 10,
+  "maximumGuest": 8,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    },
+    {
+      "name": "Kitchen",
+      "icon": "kitchen"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "13a",
+      "url": "https://img.freepik.com/free-photo/huge-swiss-hotel-with-outdoor-restaurant_8353-9521.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "13b",
+      "url": "https://img.freepik.com/free-photo/long-shot-friends-playing-soccer_23-2150338680.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "13c",
+      "url": "https://img.freepik.com/free-photo/kitchen-dining-table-background-zoom-calls_23-2149684442.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "13d",
+      "url": "https://img.freepik.com/premium-photo/traditional-thai-style-wooden-bedroom_251764-554.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "13e",
+      "url": "https://img.freepik.com/premium-photo/indoor-modern-comfortable-bedroom-hotel-nobody-inside-interior-luxury-vintage-apartment-room-flat-house-decor-concept-design-double-bed-relax-home_250132-483.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "13f",
+      "url": "https://img.freepik.com/premium-photo/luxury-vacation-bungalow-tropical-garden-thailand_1048944-19204362.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 3500,
+  "address": {
+    "area": "CoakersWalk",
+    "city": "kodaikanal",
+    "state": "tamilnadu",
+    "pincode": 624101
+  },
+  "slug": "Sunnyside Up",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b1"
+  },
+  "propertyName": "Carnival Luxury Apartments",
+  "description": "A sleek and luxury apartment in the heart of the city.Indulge in the epitome of urban sophistication with this sleek and luxurious apartment nestled in the pulsating heart of the city. This meticulously designed residence offers a seamless blend of modern elegance and cutting-edge comfort",
+  "propertyType": "Flat",
+  "roomType": "Room",
+  "maximumNight": 14,
+  "maximumGuest": 4,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "AC",
+      "icon": "ac_unit"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    },
+    {
+      "name": "Pool",
+      "icon": "pool"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "1a",
+      "url": "https://img.freepik.com/free-photo/leisure-beautiful-health-garden-landscape_1203-4856.jpg?w=1380&t=st=1706504865~exp=1706505465~hmac=d1c3c454e394b00c3291d82b1aaa189d64f0093031d26d14b9ff71b243931357"
+    },
+    {
+      "public_id": "1b",
+      "url": "https://img.freepik.com/free-photo/light-garden-luxury-pool-nature_1203-4908.jpg?w=1380&t=st=1706504909~exp=1706505509~hmac=16fce68739db64f045f52ebe1083b87a87fae08bb6c1c60b3abb58fb7b812a35"
+    },
+    {
+      "public_id": "1c",
+      "url": "https://img.freepik.com/free-photo/large-pool-with-umbrellas-hammocks_1203-182.jpg?w=1380&t=st=1706505001~exp=1706505601~hmac=6fd5f6eca8e05c65101a4092d27da1d9f6033fe33bf6dd2e3ca55623bfaccb6a"
+    },
+    {
+      "public_id": "1d",
+      "url": "https://img.freepik.com/free-photo/hotel-reflected-water_1203-175.jpg?w=1380&t=st=1706505027~exp=1706505627~hmac=55b3c0e8372767f657841197d93494189ad4b9cf94dbe591efefb1527854981b"
+    },
+    {
+      "public_id": "1e",
+      "url": "https://img.freepik.com/free-photo/swimming-pool_1203-3385.jpg?w=1380&t=st=1706505064~exp=1706505664~hmac=42735efdc28bcecb11acbc7d17c4254f4a1b1ab12ebdd9fd4c17226a8287897c"
+    },
+    {
+      "public_id": "1f",
+      "url": "https://img.freepik.com/free-photo/modern-house-bathroom-interior_1232-2953.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 1200,
+  "address": {
+    "area": "northgoa",
+    "city": "goa",
+    "state": "goa",
+    "pincode": 403109
+  },
+  "slug": "Carnival Luxury Apartments",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b2"
+  },
+  "propertyName": "SRS Suites",
+  "description": "A luxurious room with sceneary views of the bangalore.A luxurious room offering an opulent retreat with panoramic views of the vibrant cityscape of Bangalore. Immerse yourself in the epitome of comfort and elegance, where every detail is meticulously crafted to provide a lavish experience",
+  "propertyType": "Hotel",
+  "roomType": "Room",
+  "maximumNight": 21,
+  "maximumGuest": 3,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Pool",
+      "icon": "pool"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "2a",
+      "url": "https://img.freepik.com/premium-photo/low-angle-view-building-against-sky-night_1048944-28386039.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "2b",
+      "url": "https://img.freepik.com/free-photo/swimming-pool_74190-1977.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "2c",
+      "url": "https://img.freepik.com/free-photo/hammocks-with-city-background_1203-691.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "2d",
+      "url": "https://img.freepik.com/free-photo/hammocks-near-pool_1203-693.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "2e",
+      "url": "https://img.freepik.com/free-photo/chair-nobody-summer-lifestyle-terrace_1203-4897.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "2f",
+      "url": "https://img.freepik.com/premium-photo/white-bathroom-interior-with-shower-toilet-sink_37778-758.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 2500,
+  "address": {
+    "area": "koramangala",
+    "city": "bangalore",
+    "state": "karnataka",
+    "pincode": 560034
+  },
+  "slug": "SRS Suites",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b9"
+  },
+  "propertyName": "Namah boutique resort",
+  "description": "You'll love the stylish decor of this charIt's time to travel up the hills again. Namah Boutique Resort welcomes you to its beautiful property situated in village Jamu, Phata, the helipad base for the holy shrine of Kedarnath. Stay with us for a memorable stay that includes comfortable accommodation, food prepared from organic fresh vegetables and trails and treks that explore Phata beyond the known!ming place to stay.",
+  "propertyType": "Hotel",
+  "roomType": "Anytype",
+  "maximumNight": 12,
+  "maximumGuest": 16,
+  "amenities": [
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "9a",
+      "url": "https://img.freepik.com/premium-photo/exterior-building-against-clear-blue-sky_1048944-18198043.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "9b",
+      "url": "https://img.freepik.com/free-photo/mountains-coverd-by-snow-cloudy-day_181624-42647.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "9c",
+      "url": "https://img.freepik.com/free-photo/pillow-bed-with-light-lamp_74190-2095.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "9d",
+      "url": "https://img.freepik.com/free-photo/wooden-table-background-cityscape_1153-3808.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "9e",
+      "url": "https://img.freepik.com/free-photo/interior-old-residential-building-village-museum-bucharest-romania_1268-21642.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "9f",
+      "url": "https://img.freepik.com/premium-photo/colorful-bathroom-with-wc-bidet_258246-11165.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 2500,
+  "address": {
+    "area": "phata",
+    "city": "kedarnath",
+    "state": "uttarakhand",
+    "pincode": 246471
+  },
+  "slug": "Namah boutique resort",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874bb"
+  },
+  "propertyName": "Snow Lion Ladakh",
+  "description": "A cozy home in the greenest and one of the most peaceful residential areas of Ladakh. You stay close to Samkar gompa and a small river stream Leh Tokpo, coming down from Khardung La. A way down through Sankar road will take you to ancient Leh market in 1.5km, the heart of the town.",
+  "propertyType": "Hotel",
+  "roomType": "Anytype",
+  "maximumNight": 7,
+  "maximumGuest": 16,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "11a",
+      "url": "https://img.freepik.com/free-photo/long-shot-facade-cabin-alpe-d-huez-ski-resort-french-alps-during-sunrise_181624-27236.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "11b",
+      "url": "https://img.freepik.com/free-photo/confluence-indus-zanskar-rivers-leh-ladakh-india_1150-11112.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "11c",
+      "url": "https://img.freepik.com/free-photo/ulsan-bawi-rock-seoraksan-mountains-winter-south-korea_335224-286.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "11d",
+      "url": "https://img.freepik.com/premium-photo/interior-abandoned-house_1048944-25836403.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "11e",
+      "url": "https://img.freepik.com/premium-photo/cold-river-dacha-stalin-residence_78361-18608.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "11f",
+      "url": "https://img.freepik.com/premium-photo/toilet-bathroom-interior-bathroom_278455-3823.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 4000,
+  "address": {
+    "area": "leh",
+    "city": "ladakh",
+    "state": "ladakh",
+    "pincode": 194101
+  },
+  "slug": "Snow Lion Ladakh",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b5"
+  },
+  "propertyName": "The Bouganvilla",
+  "description": "The Bouganvilla is a good option for travelers looking out for villa in Ooty. It is located in Fern Hill. Villa is rated 3.8 out of 5, which is considered as Good. The property is located at great location and provides easy and fast connectivity to the major transit points of the city.It offers impeccable service and all the essentials.",
+  "propertyType": "House",
+  "roomType": "Entire home",
+  "maximumNight": 12,
+  "maximumGuest": 6,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "5a",
+      "url": "https://img.freepik.com/free-photo/peaceful-cabin-woods_23-2148245159.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "5b",
+      "url": "https://img.freepik.com/free-photo/village-fog-cloud_1308-41419.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "5c",
+      "url": "https://img.freepik.com/free-photo/dining-interior_501050-1053.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "5d",
+      "url": "https://img.freepik.com/premium-photo/mai-chaus-proximity-capital-makes-it-ideal-escape-nature-lovers_1048944-1394458.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "5e",
+      "url": "https://img.freepik.com/free-photo/vertical-shot-toilet-seat-by-window-with-beautiful-view-landscape_181624-28176.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "5f",
+      "url": "https://img.freepik.com/free-photo/bed-with-canopy_1385-1800.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 5000,
+  "address": {
+    "area": "fernhill",
+    "city": "ooty",
+    "state": "tamilnadu",
+    "pincode": 643004
+  },
+  "slug": "The Bouganvilla",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b7"
+  },
+  "propertyName": "Super Premium Apartment",
+  "description": "Nestled in the heart of the enchanting Pink City, our hotel in Jaipur welcomes you to a realm of regal elegance and timeless luxury. Embrace the grandeur of Rajasthan as you step into our opulent abode, where the rich history and vibrant culture of Jaipur seamlessly blend with modern comfort.",
+  "propertyType": "Flat",
+  "roomType": "Room",
+  "maximumNight": 8,
+  "maximumGuest": 4,
+  "amenities": [
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    },
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "7a",
+      "url": "https://img.freepik.com/premium-photo/apartment-building-kyiv-ukraine_261932-4429.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "7b",
+      "url": "https://img.freepik.com/free-photo/luxurious-vintage-interior-ofroom_1232-4715.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "7c",
+      "url": "https://img.freepik.com/premium-photo/illuminated-city-against-sky-night_1048944-453538.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "7d",
+      "url": "https://img.freepik.com/premium-photo/luxury-modern-hotel-bedroom_81863-644.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "7e",
+      "url": "https://img.freepik.com/free-photo/spacious-hotel-room-with-rug_1203-1495.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "7f",
+      "url": "https://img.freepik.com/free-photo/beautiful-decoration-interior-bathroom-with-white-luxury-bathtub-take-bath_74190-9000.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 3500,
+  "address": {
+    "area": "gopalbari",
+    "city": "jaipur",
+    "state": "rajasthan",
+    "pincode": 302001
+  },
+  "slug": "Super Premium Apartment",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b8"
+  },
+  "propertyName": "Opod's Chikmagalur",
+  "description": "Discover a one-of-a-kind experience at our unique capsule homestay, where modern comfort meets innovative design. Each capsule is meticulously crafted to offer you privacy and tranquility, ensuring a restful and rejuvenating stay. Immerse yourself in the sleek, contemporary ambiance, while enjoying access to a range of thoughtful amenities.",
+  "propertyType": "Guest House",
+  "roomType": "Anytype",
+  "maximumNight": 7,
+  "maximumGuest": 10,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Pool",
+      "icon": "pool"
+    },
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "8a",
+      "url": "https://img.freepik.com/premium-photo/citadel-imperial-royal-palace-forbidden-city-hue-vietnam_255175-1967.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "8b",
+      "url": "https://media.istockphoto.com/id/1216722235/photo/mountain-with-green-grass-and-beautiful-sky.jpg?b=1&s=612x612&w=0&k=20&c=lEn097obhUYvl4csMffhgveQoDeNpj4SMMhXDYQhO7c="
+    },
+    {
+      "public_id": "8c",
+      "url": "https://img.freepik.com/free-photo/relax-area-resort_1150-10728.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "8d",
+      "url": "https://img.freepik.com/premium-photo/tea-house-village-uchdere-dagomys-sochi-russia_174954-2350.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "8e",
+      "url": "https://img.freepik.com/premium-photo/cold-river-dacha-stalin-residence_78361-18619.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "8f",
+      "url": "https://img.freepik.com/premium-photo/composting-toilet-tiny-ecofriendly-house_419341-71141.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 6000,
+  "address": {
+    "area": "keremakki",
+    "city": "Chikmagalur",
+    "state": "karnataka",
+    "pincode": 577111
+  },
+  "slug": "Opod's Chikmagalur",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874be"
+  },
+  "propertyName": "Little Haven",
+  "description": "Little Haven is peaceful and pleasant, creating a serene ambiance where you can savor your morning coffee while basking in the breathtaking sunrise and the delightful symphony of birdsong. Nestled in the heart of Koregaon Park, its central location provides convenient access to Osho Ashram, adding to the overall charm of this tranquil retreat.",
+  "propertyType": "Flat",
+  "roomType": "Room",
+  "maximumNight": 14,
+  "maximumGuest": 4,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    },
+    {
+      "name": "Kitchen",
+      "icon": "kitchen"
+    },
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "14a",
+      "url": "https://img.freepik.com/premium-photo/low-angle-view-skyscrapers-night_1048944-19896626.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "14b",
+      "url": "https://img.freepik.com/free-photo/residential-district-valencia-spain_1398-2380.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "14c",
+      "url": "https://img.freepik.com/free-photo/restaurant-hall-with-leather-armchairs-french-windows_140725-8445.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "14d",
+      "url": "https://img.freepik.com/free-photo/spacious-room-with-wooden-table_1203-1489.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "14e",
+      "url": "https://img.freepik.com/free-photo/3d-rendering-beautiful-comtemporary-luxury-bedroom-suite-hotel-with-tv_105762-2065.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "14f",
+      "url": "https://img.freepik.com/premium-photo/toilet-bathroom-interior-bathroom_278455-3823.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 5000,
+  "address": {
+    "area": "Koregaon park",
+    "city": "pune",
+    "state": "maharashtra",
+    "pincode": 411001
+  },
+  "slug": "Little Haven",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874b6"
+  },
+  "propertyName": "Spring House Manali",
+  "description": "Spring House is conveniently approachable from every direction. It's just a 5 minute walk from famous Hadimba Devi Temple.We are committed to provide our guests with the comfort of a resort with the home like privacy and hospitality.",
+  "propertyType": "House",
+  "roomType": "Room",
+  "maximumNight": 8,
+  "maximumGuest": 2,
+  "amenities": [
+    {
+      "name": "Kitchen",
+      "icon": "kitchen"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "6a",
+      "url": "https://img.freepik.com/premium-photo/houses-field-against-clear-sky-during-winter_1048944-14073349.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "6b",
+      "url": "https://img.freepik.com/free-photo/snow-village-shirakawago_1150-11189.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "6c",
+      "url": "https://img.freepik.com/free-photo/bedroom-interior_53876-32151.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "6d",
+      "url": "https://img.freepik.com/premium-photo/indoor-modern-comfortable-bedroom-hotel-nobody-inside-interior-luxury-vintage-apartment-room-flat-house-decor-concept-design-double-bed-relax-home_250132-483.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "6e",
+      "url": "https://img.freepik.com/premium-photo/toilet-bathroom-interior-bathroom_278455-3823.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "6f",
+      "url": "https://img.freepik.com/free-photo/mesmerizing-view-houses-fields-covered-snow-surrounded-by-mountains-trees_181624-13827.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 2000,
+  "address": {
+    "area": "dhungri",
+    "city": "manali",
+    "state": "himachalpradesh",
+    "pincode": 175131
+  },
+  "slug": "Spring House Manali",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874ba"
+  },
+  "propertyName": "The Tender coco",
+  "description": "Enjoy the lovely setting of this romantic spot in nature. Big Coconut Farm with all the facilities you require are here. Most attractive part of this villa is Sunrise and sunset. only for family.",
+  "propertyType": "House",
+  "roomType": "Entire Home",
+  "maximumNight": 7,
+  "maximumGuest": 4,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    },
+    {
+      "name": "Pool",
+      "icon": "pool"
+    },
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "10a",
+      "url": "https://img.freepik.com/free-photo/traditional-beautiful-building-moroccan-morocco_1203-5629.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "10b",
+      "url": "https://img.freepik.com/free-photo/outdoor-swimming-pool_74190-2001.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "10c",
+      "url": "https://img.freepik.com/free-photo/interior-view-building-istanbul-turkey_53876-147706.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "10d",
+      "url": "https://img.freepik.com/free-photo/bedroom-interior_53876-32151.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "10e",
+      "url": "https://img.freepik.com/premium-photo/potted-plants-table-against-sky_1048944-2901622.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "10f",
+      "url": "https://img.freepik.com/free-photo/wc-sanitary-porcelain-elegance-ceramic_1203-5244.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 3000,
+  "address": {
+    "area": "gabha",
+    "city": "somnath",
+    "state": "gujarat",
+    "pincode": 362150
+  },
+  "slug": "The Tender coco",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b79a6cb2598ba2c46874bc"
+  },
+  "propertyName": "Royal presidential suite",
+  "description": "The whole group will be comfortable in this spacious and unique space. This royal place is inspired from a British royal palace. It’s very close to airport,city centre 2 & eco park. It’s well maintained property with 24/7 security.Rooftop Pool and gym is accessible which is on 10th floor along with rooftop garden.",
+  "propertyType": "Flat",
+  "roomType": "Room",
+  "maximumNight": 10,
+  "maximumGuest": 6,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Free Parking",
+      "icon": "local_parking"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    },
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "12a",
+      "url": "https://img.freepik.com/premium-photo/regent-hotel-tivat-montenegro-porto-montenegro_278455-3650.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "12b",
+      "url": "https://img.freepik.com/free-photo/fuzzy-dusk-street-shanghai-tourism-china_1417-1299.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "12c",
+      "url": "https://img.freepik.com/premium-photo/umbrella-pool-bed-around-outdoor-swimming-pool-hotel-resort-travel-holiday-vacation_1339-88281.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "12d",
+      "url": "https://img.freepik.com/free-photo/bangkok-thailand-august-12-2016-beautiful-luxury-bedroom-int_1203-2724.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "12e",
+      "url": "https://img.freepik.com/free-photo/elegant-hotel-room-with-big-bed_1203-1494.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    },
+    {
+      "public_id": "12f",
+      "url": "https://img.freepik.com/premium-photo/luxury-bathroom-with-sanitary-ware_24637-650.jpg?size=626&ext=jpg&ga=GA1.1.2143001750.1706505284&semt=ais"
+    }
+  ],
+  "price": 5000,
+  "address": {
+    "area": "bablatala",
+    "city": "kolkata",
+    "state": "westbengal",
+    "pincode": 700052
+  },
+  "slug": "Royal presidential suite",
+  "currentBookings": []
+},
+{
+  "_id": {
+    "$oid": "65b88b46ba3e508a5850f8c3"
+  },
+  "propertyName": "Xavier's Guest House",
+  "description": "Discover a charming retreat at our guest house in the heart of Goa, where tranquility meets vibrant coastal living. Nestled amidst the lush greenery and just a stone's throw away from the sun-kissed beaches, our guest house offers a perfect blend of comfort and relaxation.",
+  "propertyType": "Guest House",
+  "roomType": "Entire Home",
+  "maximumNight": 14,
+  "maximumGuest": 4,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi"
+    },
+    {
+      "name": "Tv",
+      "icon": "tv"
+    },
+    {
+      "name": "Ac",
+      "icon": "ac_unit"
+    }
+  ],
+  "images": [
+    {
+      "public_id": "15a",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-39852455/original/efc02b08-f302-4d6e-8146-07b27211e20e.jpeg?im_w=1200",
+      "_id": {
+        "$oid": "65b88b46ba3e508a5850f8c4"
+      }
+    },
+    {
+      "public_id": "15b",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-39852455/original/dd58283d-0f21-4f5e-93ef-e00d50cdd949.jpeg?im_w=1200",
+      "_id": {
+        "$oid": "65b88b46ba3e508a5850f8c5"
+      }
+    },
+    {
+      "public_id": "15c",
+      "url": "https://a0.muscache.com/im/pictures/db198543-c74d-4101-ae7a-318777341a92.jpg?im_w=720",
+      "_id": {
+        "$oid": "65b88b46ba3e508a5850f8c6"
+      }
+    },
+    {
+      "public_id": "15d",
+      "url": "https://a0.muscache.com/im/pictures/a7dca3d8-bdbb-4268-9c52-6700d8ab8348.jpg?im_w=1200",
+      "_id": {
+        "$oid": "65b88b46ba3e508a5850f8c7"
+      }
+    },
+    {
+      "public_id": "15e",
+      "url": "https://a0.muscache.com/im/pictures/miso/Hosting-39852455/original/26a7fd6f-fc06-4b1d-b857-8f92c8a97943.jpeg?im_w=1200",
+      "_id": {
+        "$oid": "65b88b46ba3e508a5850f8c8"
+      }
+    },
+    {
+      "public_id": "15f",
+      "url": "https://a0.muscache.com/im/pictures/db85b01c-e46f-4c3b-b405-4c554a2993d5.jpg?im_w=1200",
+      "_id": {
+        "$oid": "65b88b46ba3e508a5850f8c9"
+      }
+    }
+  ],
+  "price": 4500,
+  "address": {
+    "area": "anjuna",
+    "city": "goa",
+    "state": "goa",
+    "pincode": 403509
+  },
+  "userId": {
+    "$oid": "659fb171e1ca590ef412e697"
+  },
+  "slug": "xavier's-guest-house",
+  "currentBookings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c20dd8e9ef8e3b6898516f"
+  },
+  "propertyName": "Karthika Flat",
+  "description": "Alappuzha, also known as Alleppey, is a city in the southern Indian state of Kerala. It’s best known for houseboat cruises along the rustic Kerala backwaters, a network of tranquil canals and lagoons.",
+  "extraInfo": "Nestled in a tranquil neighborhood, the house exudes an aura of charm and elegance. The exterior is adorned with a harmonious blend of classic and contemporary architectural elements, featuring a beautiful brick facade and a welcoming front porch.As you step inside, you are greeted by a spacious, sunlit living room with high ceilings and large windows that invite an abundance of natural light. The hardwood floors add a touch of warmth to the space, complementing the neutral color palette.The kitchen is a chef's dream, equipped with modern appliances, sleek countertops, and ample storage space. It opens up to a cozy dining area, creating a perfect setting for family meals and gatherings.",
+  "propertyType": "House",
+  "roomType": "Anytype",
+  "maximumGuest": 10,
+  "amenities": [
+    {
+      "name": "Wifi",
+      "icon": "wifi",
+      "_id": {
+        "$oid": "65c20dd8e9ef8e3b68985170"
+      }
+    }
+  ],
+  "images": [
+    {
+      "public_id": "15a",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTar39YrDTl5S_-LI8plRrWb_qCaq-cvtCoXMpMNneBKw&s",
+      "_id": {
+        "$oid": "65c20dd8e9ef8e3b68985171"
+      }
+    },
+    {
+      "public_id": "15b",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsEN_OWy9wcej1qSgI1TBRNgsjq4zEgwnk3k5JD8-Lkw&s",
+      "_id": {
+        "$oid": "65c20dd8e9ef8e3b68985172"
+      }
+    },
+    {
+      "public_id": "15c",
+      "url": "https://a0.muscache.com/im/pictures/4d8577d2-1df0-4a09-83ba-8c57e78f1f62.jpg?im_w=1200",
+      "_id": {
+        "$oid": "65c20dd9e9ef8e3b68985173"
+      }
+    },
+    {
+      "public_id": "15d",
+      "url": "https://a0.muscache.com/im/pictures/1903fca4-1be7-40b2-bd79-72f2f910ae97.jpg?im_w=1200",
+      "_id": {
+        "$oid": "65c20dd9e9ef8e3b68985174"
+      }
+    },
+    {
+      "public_id": "15e",
+      "url": "https://a0.muscache.com/im/pictures/22de1d41-bcf2-4cb8-91c5-a7b7c97e190c.jpg?im_w=1200",
+      "_id": {
+        "$oid": "65c20dd9e9ef8e3b68985175"
+      }
+    }
+  ],
+  "price": 4000,
+  "address": {
+    "area": "Vadasserikonam",
+    "city": "alleppy",
+    "state": "kerala",
+    "pincode": 695143
+  },
+  "userId": {
+    "$oid": "65b794327bfa5862fc55fddb"
+  },
+  "checkInTime": "11:00",
+  "checkOutTime": "10:00",
+  "currentBookings": [],
+  "slug": "karthika-flat",
+  "__v": 0
+}]
